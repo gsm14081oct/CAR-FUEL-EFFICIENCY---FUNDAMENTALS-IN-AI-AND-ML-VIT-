@@ -64,5 +64,7 @@ The model prints:
 * R2 Score
 * Example MPG Prediction
 
-## 
+## AUTHOR 
+NAME : GIRIJA SANKAR MAHAPATRA 
+REGISTRATION NUMBER - 25BMR10012
 
