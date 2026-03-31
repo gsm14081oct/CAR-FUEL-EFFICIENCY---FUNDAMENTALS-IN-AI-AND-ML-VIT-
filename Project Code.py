@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 # Load dataset
 data = pd.read_csv("car_fuel_efficiency_dataset.csv")
 
-X = data[["engine_size", "weight", "horsepower", "cylinders"]]
+X = data[["EngineSize", "Weight", "Horsepower", "Cylinders"]]
 y = data["mpg"]
 
 # Split dataset
