@@ -1,0 +1,28 @@
+Car Fuel Efficiency Prediction using Machine Learning
+
+1. Introduction
+Fuel efficiency is a key factor in automotive engineering. This project focuses on predicting fuel efficiency of a vehicle using machine learning models.
+
+2. Problem Statement
+The objective is to predict the miles per gallon (MPG) of a vehicle based on its specifications such as engine size, weight, horsepower, and cylinders.
+
+3. Importance of the Problem
+Improving fuel efficiency reduces fuel consumption and environmental impact. Accurate prediction helps engineers design optimized vehicles.
+
+4. Methodology
+A regression-based machine learning model (Linear Regression) was used. The dataset was split into training and testing sets. The model was trained and evaluated using Mean Squared Error and R2 Score.
+
+5. Tools and Technologies
+Python programming language, Pandas for data handling, NumPy for numerical operations, and Scikit-learn for machine learning.
+
+6. Challenges Faced
+Understanding feature relationships, preparing structured data, and evaluating model performance were key challenges.
+
+7. Results
+The model successfully predicts MPG values with reasonable accuracy based on input vehicle features.
+
+8. Learning Outcomes
+This project improved understanding of regression models, dataset handling, model training, testing, and evaluation.
+
+9. Future Improvements
+Future improvements include using real-world datasets, trying advanced models like Random Forest, and creating a graphical interface.
